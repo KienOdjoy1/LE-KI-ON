@@ -114,11 +114,12 @@ An internet connection is required for the dictionary API to work.
 
 ## Project Structure
 
-LEKION/
+LE-KI-ON/
 │
+├── Kent.jpg
+├── Kien.jpg
+├── Lester.jpg
+├── README.md
 ├── index.html
-├── css/
-│   └── style.css
-├── js/
-│   └── script.js
-└── README.md
+├── styles.css
+├── script.js
